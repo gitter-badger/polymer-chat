@@ -22,6 +22,8 @@ Once this is all done, you only need to reference Polymer and the element itself
 
 How to build and play with it
 ===
+
+[![Join the chat at https://gitter.im/dunnweb/polymer-chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dunnweb/polymer-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 To build the project just clone the repository and issue command
  
 ```npm install```
